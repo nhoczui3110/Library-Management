@@ -45,4 +45,4 @@
 
 ![alt text](https://github.com/nhoczui3110/Library-Management/blob/main/pictures/demo-docgia3.png "Mượn trả")
 
-![alt text](https://github.com/nhoczui3110/Library-Management/blob/main/pictures/demo-muontra.png "Danh sách quá hạn")
+![alt text](https://github.com/nhoczui3110/Library-Management/blob/main/pictures/demo-quahan.png "Danh sách quá hạn")
