@@ -1,0 +1,81 @@
+
+2550
+0
+1
+Nguyen Thi
+Quynh
+1556
+1
+0
+Dao Phuong
+Nam
+537
+0
+0
+Trinh Thang
+Binh
+75
+1
+0
+Ho Van
+Tai
+1506
+0
+0
+Anh
+Tu
+2268
+0
+0
+Le Thanh
+Trung
+2075
+1
+1
+Ho Ngoc
+Ha
+4032
+0
+0
+Vo Trung
+Quan
+3525
+1
+1
+Pham Hoang
+Oanh
+3281
+0
+0
+Ho Duc
+Trung
+6543
+1
+0
+Tran Anh
+Quan
+4488
+0
+1
+Ly
+Ly
+4394
+1
+0
+Ho Hoai
+Anh
+5125
+1
+0
+Mac Van
+Khoa
+6562
+0
+0
+Le Van
+Viet
+7518
+0
+0
+Ha Anh
+Tuan

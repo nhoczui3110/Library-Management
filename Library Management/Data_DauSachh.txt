@@ -1,0 +1,97 @@
+
+
+200
+9
+1957
+AHXD
+Anh Hung Xa Dieu
+Kim Dung
+Kiem hiep
+
+1745
+10
+1934
+CP
+Chi Pheo
+Nam Cao
+Van hoc
+
+200
+22
+2001
+CCY
+Co Chac Yeu
+To Huu
+Tinh yeu
+
+15
+3
+2016
+DM
+Dau Mua
+Trung Quan
+Tinh cam
+
+200
+12
+2003
+DRM
+Doraemon
+Fujiko
+Hoat hinh
+
+20
+12
+1875
+L
+Lang
+Kim Lan
+Van hoc
+
+175
+21
+1943
+LH
+Lao Hac
+Nam Cao
+Van hoc
+
+241
+14
+2014
+NLCV
+Noi Luon Cho Vuong
+Steve Harvey
+Cam hung
+
+1000
+5
+1650
+TD
+Tat Den
+Ngo Tat To
+Dan gian
+
+2500
+15
+1475
+TK
+Truyen Kieu
+Nguyen Du
+Dan gian
+
+100
+12
+2001
+VDH
+Vung Dat Hua
+Dang Bac
+Cam hung
+
+120
+18
+2017
+Y
+Yeu
+Erik
+Tinh yeu
