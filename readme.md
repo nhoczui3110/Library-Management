@@ -1,13 +1,13 @@
 # CTDL & GT - Đồ án Quản Lý Thư Viện - KHÓA 2021 CNTT - ĐPT
 
-# Thư viện: Ta tổ chức các danh sách sau:
+## Thư viện: Ta tổ chức các danh sách sau:
 
 -   `Đầu sách`: danh sách tuyến tính là 1 mảng con trỏ (ISBN , Tên sách, Số trang, Tác giả, năm xuất bản, thể loại, con trỏ dms): con trỏ sẽ trỏ đến các sách thuộc đầu sách tương ứng. Danh sách đầu sách luôn tăng dần theo tên sách.
 -   `Danh mục sách` : danh sách liên kết đơn( Mã sách, trạng thái, vị trí ). Mỗi cuốn sách chỉ có 1 mã duy nhất; trạng thái của sách bao gồm: 0: cho mượn được, 1: đã có độc giả mượn, 2: sách đã thanh lý .
 -   `Danh sách thẻ độc giả` : cây nhị phân tìm kiếm cân bằng (MATHE (số nguyên ngẫu nhiên tự động), Ho, Ten, Phai, trạng thái của thẻ, con trỏ): con trỏ sẽ trỏ đến danh sách các cuốn sách đã và đang mượn.
 -   `Danh sách MUONTRA` : danh sách liên kết kép ( MASACH, NgayMuon, NgayTra, trạng thái): trạng thái =0 là sách đang mượn (chưa trả), =1 là đã trả, =2 : làm mất sách
 
-# Chương trình có các chức năng sau:
+## Chương trình có các chức năng sau:
 
 -   a. Nhập thẻ độc giả: thêm / xóa / hiệu chỉnh thông tin thẻ độc giả. Mã thẻ độc giả được chương trình tự động lấy ngẫu nhiên và không trùng với các mã thẻ độc giả cũ; Phái chỉ nhận ‘Nam’ hoặc ‘Nữ’; trạng thái thẻ = 0 khi thẻ bị khóa, trạng thái thẻ = 1 khi thẻ đang hoạt động (được quyền mượn sách).
 -   b. In danh sách độc giả : in ra màn hình theo thứ tự tên+họ tăng dần hoặc theo thứ tự mã độc giả tăng dần theo yêu cầu của thủ thư.
@@ -21,7 +21,7 @@
     Mathe Ho tên Masach Tên sách Ngày mượn Số ngày quá hạn
 -   j. In 10 đầu sách có số lượt mượn nhiều nhất.
 
-# Cài đặt
+## Cài đặt
 
 Đồ án sử dụng thư viện giao diện winbgim.h, chạy trên IDE DevC++.
 
@@ -29,7 +29,7 @@
 2. Tải về và giải nén source code.
 3. Mở file `templeslibra.dev` bằng DevC++ và run project.
 
-# Một số hình ảnh
+## Một số hình ảnh
 
 ![alt text](https://github.com/nhoczui3110/Library-Management/blob/main/pictures/demo-dausach1.png "Đầu sách")
 
